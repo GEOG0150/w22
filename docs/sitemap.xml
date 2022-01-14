@@ -11,6 +11,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://github.com/GOG0150/w22/comparingDatasets/</loc>
+         <lastmod>2022-01-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://github.com/GOG0150/w22/description/</loc>
          <lastmod>2022-01-14</lastmod>
          <changefreq>daily</changefreq>
